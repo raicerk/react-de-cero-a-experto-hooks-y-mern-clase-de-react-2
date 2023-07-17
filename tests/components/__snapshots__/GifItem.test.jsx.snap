@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test de componente <GifItem/> Se debe dibujar el componente y ser valido con el snapshot 1`] = `
+<div>
+  <div>
+    <img
+      alt="Este es un titulo"
+      src="httpsu://raicerk.cl/"
+    />
+    <p>
+      Este es un titulo
+    </p>
+  </div>
+</div>
+`;

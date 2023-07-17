@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test de <GifGrid/> Debe retornar el texto del titulo 1`] = `
+<h3>
+  Naruto
+</h3>
+`;

@@ -1,0 +1,24 @@
+body{
+    background-color: #1e1e1e;
+    color: #fff;
+}
+
+input[type=text] {
+    width: 15em;
+    height: 2em;
+}
+
+input::placeholder {
+    color: #1e1e1e
+}
+
+h3 {
+    margin: 2em 0 2em 0;
+    display: block;
+}
+
+div > p {
+    color: #fff;
+    font-size: 0.8em;
+    text-transform: lowercase;
+}
